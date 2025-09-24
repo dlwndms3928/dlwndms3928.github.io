@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "images/SCR-20250925-bbwi.jpeg"
 resume_name:                    "Jooeun Lee"
 resume_title:                   "AI Research & Development (Undergraduate, INU)"
 

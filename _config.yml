@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Jueun Lee"
+resume_name:                    "Jooeun Lee"
 resume_title:                   "AI Research & Development (Undergraduate, INU)"
 
 # used for the contact button in _layouts/resume.html

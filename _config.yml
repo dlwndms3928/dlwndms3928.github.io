@@ -14,7 +14,7 @@ resume_name:                    "Jooeun Lee"
 resume_title:                   "AI Research & Development (Undergraduate, INU)"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "너의메일@inu.ac.kr"
+resume_contact_email:           "dlwndms0072@inu.ac.kr"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "010-9180-0072"
